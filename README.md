@@ -4,6 +4,10 @@ To run backend navigate to FeedingMenu\API than run the following command:
 
 - dotnet watch run
 
+To run front end Navigate to client-app than run the following command:
+
+- npm run dev
+
 ### Git
 
 Checks the status
